@@ -11,7 +11,7 @@
 
 @implementation PlayingCard
 
-//Lo que describe la carta se conforma de dos partes. El rango "rankStrings" y la pinga "suit"
+//Lo que describe la carta se conforma de dos partes. El rango "rankStrings" y la pinta "suit"
 
 //contents devuelve el rankString+suit dependiendo de la variable rank. Si el suit es ♦ y rank es 1 entrega "A♦", si rank es 11 entrega "J♦".
 -(NSString *)contents{
